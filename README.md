@@ -17,7 +17,9 @@ cordova plugin add cordova-plugin-dialogs // utilise les alertes native des tele
 - add device manager
 - ajouter un nouveau support (exemple: oreo 8.0)
 <br/>
+
 - commande 1: cordova emulate android
 - commande 1 (autre méthode): cordova run android
 <br/>
-**Le chemin d'accès vers la version apk est indiqué dans "Built the following apk(s): /adresse"**
+
+#### Le chemin d'accès vers la version apk est indiqué dans "Built the following apk(s): /adresse"

@@ -2,10 +2,10 @@
 # website: https://cordova.apache.org/
 #
 # Recommended template: Node.gitignore
-trycordova/node_modules/
+/trycordova/node_modules/
 
 # App platform binaries and built files
-trycordova/platforms/
+/trycordova/platforms/
 
 # Optional to ignore plugin Git clones
-trycordova/plugins/
+/trycordova/plugins/
