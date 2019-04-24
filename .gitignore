@@ -3,9 +3,12 @@
 #
 # Recommended template: Node.gitignore
 /node_modules
+node_modules/
 
 # App platform binaries and built files
 /platforms
+platforms/
 
 # Optional to ignore plugin Git clones
 /plugins
+plugins/
