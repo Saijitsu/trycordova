@@ -126,3 +126,11 @@
  .nav a:last-child {
     border-bottom: none;
  }
+
+ .btn{
+     border: 1px solid #ccc;
+     background-color: #fff;
+     color: #333;
+     border-radius: 3px;
+     padding: 5px 15px;
+ }
