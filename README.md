@@ -4,11 +4,11 @@ Il utilise pour cela les composants webview des différents systèmes avec une s
 
 ### Création du projet
 
-cordova create nomdufichier
-cd nomdufichier
-cordova platform add android
-cordova platform add browser
-cordova serve
+cordova create nomdufichier<br/>
+cd nomdufichier<br/>
+cordova platform add android<br/>
+cordova platform add browser<br/>
+cordova serve<br/>
 
 cordova plugin add cordova-plugin-dialogs // utilise les alertes native des telephones
 
@@ -20,4 +20,4 @@ cordova plugin add cordova-plugin-dialogs // utilise les alertes native des tele
 - commande 1: cordova emulate android
 - commande 1 (autre méthode): cordova run android
 <br/>
-** Le chemin d'accès vers la version apk est indiqué dans "Built the following apk(s): /adresse" **
+**Le chemin d'accès vers la version apk est indiqué dans "Built the following apk(s): /adresse"**
