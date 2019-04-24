@@ -19,3 +19,5 @@ cordova plugin add cordova-plugin-dialogs // utilise les alertes native des tele
 <br/>
 - commande 1: cordova emulate android
 - commande 1 (autre méthode): cordova run android
+<br/>
+** Le chemin d'accès vers la version apk est indiqué dans "Built the following apk(s): /adresse" **
