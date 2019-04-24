@@ -5,3 +5,6 @@ cordova create nomdufichier
 cd nomdufichier
 cordova platform add android
 cordova platform add browser
+cordova serve
+
+cordova plugin add cordova-plugin-dialogs // utilise les alertes native des telephones
