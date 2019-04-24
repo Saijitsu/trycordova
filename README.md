@@ -16,8 +16,6 @@ cordova plugin add cordova-plugin-dialogs // utilise les alertes native des tele
 - lancer android studio
 - add device manager
 - ajouter un nouveau support (exemple: oreo 8.0)
-<br/>
-
 - commande 1: cordova emulate android
 - commande 1 (autre méthode): cordova run android
 <br/>
