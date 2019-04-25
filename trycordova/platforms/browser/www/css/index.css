@@ -47,11 +47,11 @@ body {
     /* 170px x 200px */
     position: absolute;
     /* position in the center of the screen */
-    left: 50%;
+    left: 45%;
     top: 20%;
     height: 50px;
     /* text area height */
-    width: 225px;
+    width: 250px;
     /* text area width */
     text-align: center;
     padding: 180px 0px 0px 0px;
@@ -163,6 +163,14 @@ h1 {
     padding: 5px 15px;
 }
 
+.btn-cancel {
+    border: 1px solid rgb(10, 10, 10);
+    background-color: rgb(233, 126, 126);
+    color: #333;
+    border-radius: 3px;
+    padding: 5px 15px;
+}
+
 hr {
     border: none;
     border-top: 1px solid #333333;
@@ -177,4 +185,37 @@ hr {
 .map {
     height: 400px;
     width: 100%;
+  }
+
+.my-3{
+    margin-top: 1rem;
+    margin-bottom: 1rem
+}
+
+  /* Style the "Add" button */
+  .addBtn {
+    border: 1px solid #ccc;
+    background-color: rgb(166, 231, 112);
+    color: #333;
+    border-radius: 3px;
+    padding: 5px 15px;
+  }
+  
+  .addBtn:hover {
+    background-color: #bbb;
+  }
+
+  #my-ul > li{
+    list-style-image: url("https://www.vyapin.com/blog/wp-content/uploads/2018/02/checkMarkSmall.gif");
+    justify-content: center
+  }
+
+  #my-ul{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+  }
+
+  #my-ul > li > p{
+      margin-right: 10%
   }
