@@ -207,7 +207,6 @@ hr {
 
   #my-ul > li{
     list-style-image: url("https://www.vyapin.com/blog/wp-content/uploads/2018/02/checkMarkSmall.gif");
-    justify-content: center
   }
 
   #my-ul{
@@ -217,5 +216,9 @@ hr {
   }
 
   #my-ul > li > p{
-      margin-right: 10%
+      margin-right: 10%;
   }
+
+  #my-ul > {
+    margin-right: 10%;
+}
