@@ -234,6 +234,22 @@ hr {
     flex-grow: 2;
 }
 
+.textarea{
+    width: 100%;
+    height:100px;
+}
+
+.whitebord {
+    word-wrap: break-word;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+    overflow: scroll;
+}
+
 .modal-content {
     display: flex;
     flex-direction: column;
